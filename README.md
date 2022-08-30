@@ -6,10 +6,9 @@
 
 ### :man_technologist: About Me :
 I am a machine learning and Deep learning researcher 😎 from Ethiopia 🇪🇹.
-- 👀 I’m interested in applying machine and deep learning algorithms in finance and forcasting tasks.
-- 🌱 I’m currently working on my MSc thesis research in deep learning for counterfeit detection.
+- 👀 I’m interested in applying deep learning algorithms in machine translation task.
+- 🌱 I’m currently working on my MSc thesis research in deep learning for machine translation,i.e GEEZ to AMHARIC.
 - 💞 I’m looking to collaborate on deep learning research and eager to learn new things.
-- ☺️  Sometimes, I work as a freelace web developer...
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kirubiel-detsa-883a64247)
 
 ---
